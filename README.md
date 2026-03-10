@@ -26,5 +26,5 @@ https://github.com/kubikal7/HashTables-struktury-danych
 
 ---
 
-## 🛠 Technologie
+## Technologie
  C++
