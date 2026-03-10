@@ -8,7 +8,7 @@ Projekty powstały w celu nauki działania struktur danych oraz ich praktycznego
 ### Listy
 
 Repozytorium:  
-https://github.com/TWOJ_LOGIN/listy-struktury-danych
+https://github.com/kubikal7/listy-struktury-danych
 
 ---
 
